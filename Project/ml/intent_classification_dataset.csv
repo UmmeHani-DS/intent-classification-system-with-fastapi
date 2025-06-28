@@ -1,0 +1,1001 @@
+text,intent
+What are the reviews for the new iPhone?,web_search
+What are the expectations for employee conduct during company-sponsored events?,knowledge_query
+What are the company's core values and mission statement?,knowledge_query
+What is the process for providing feedback or suggestions on company policies and procedures?,knowledge_query
+Look up the history of the Eiffel Tower,web_search
+"What are the company's policies on diversity, equity, and inclusion in the workplace?",knowledge_query
+What are the rules regarding social media usage during work hours?,knowledge_query
+Find the nearest parking garage to the city center,web_search
+What's your favorite type of cuisine to cook?,general_chat
+Email the development team about the new project timeline and deadlines,email_send
+What do you like to do to relax on a Sunday afternoon?,general_chat
+Email the entire staff about the scheduled maintenance this weekend,email_send
+Can you provide information on the company's diversity and inclusion initiatives?,knowledge_query
+"I heard the weather is going to be great this weekend, do you have any plans?",general_chat
+How was your morning commute?,general_chat
+How was your summer vacation?,general_chat
+Please set up a meeting about the budget review for the next quarter.,calendar_schedule
+Do you have any fun plans for the upcoming weekend?,general_chat
+What is the company's policy on data protection and privacy?,knowledge_query
+Please arrange a meeting with the customer service team to discuss the customer feedback,calendar_schedule
+How many calories are in a slice of pizza?,web_search
+I want to send a follow-up email to the customer about their order,email_send
+I need to arrange a meeting with the finance team to discuss the budget for the upcoming year.,calendar_schedule
+Find the best routes for a road trip from California to New York,web_search
+I want to schedule a meeting with the client to finalize the contract details.,calendar_schedule
+Schedule a conference call with the international team for tomorrow at 5pm.,calendar_schedule
+Email the sales team with the updated product information,email_send
+What do you think about the latest movie releases?,general_chat
+What's something you're really passionate about outside of work or school?,general_chat
+"I feel like we haven't talked in ages, how have you been?",general_chat
+We need to set up an interview with the candidate for the open position on Thursday.,calendar_schedule
+Email the finance team about the budget and expense reports,email_send
+What types of employee discounts or perks are available to us?,knowledge_query
+Search for the definition of artificial intelligence,web_search
+Schedule a meeting for the project kickoff on the first day of next month.,calendar_schedule
+I need to send a follow-up email to James regarding the pending issue.,email_send
+How does the company communicate with employees during emergencies or crises?,knowledge_query
+Find the reviews for the latest Samsung smartwatch,web_search
+"Do you have any pets, I've been thinking of getting one?",general_chat
+Can you send an email to our business partner about the contract renewal,email_send
+Book a conference call with the remote team for next Tuesday at 1pm.,calendar_schedule
+Email the research team about the latest industry trends and insights,email_send
+I need to schedule a call with the supplier to discuss the delivery schedule,calendar_schedule
+Have you traveled anywhere exciting recently or have any upcoming trips?,general_chat
+Please set up a meeting with the sales team to discuss the quarterly targets,calendar_schedule
+Can you schedule an interview with the candidate for the open position on Tuesday?,calendar_schedule
+What's the best thing that's happened to you this year?,general_chat
+How do I access our employee handbook online?,knowledge_query
+What's the score of the Yankees game last night?,web_search
+"Do you have any pets, I'm thinking of getting one?",general_chat
+Search for the reviews of the new Nintendo Switch game,web_search
+"What's the best advice you've ever received, and from whom?",general_chat
+I need to schedule a meeting with the HR department to discuss employee onboarding.,calendar_schedule
+Find the latest sports news on the NFL,web_search
+Email the accounting team about the payment and invoice details,email_send
+Send an email to the customer service department about the complaint.,email_send
+What is the process for providing feedback or suggestions to management?,knowledge_query
+Please forward this email to the finance team regarding the invoice,email_send
+Let's schedule a meeting with the operations team to discuss the logistics and supply chain.,calendar_schedule
+What's the best book you've read recently and why did you like it?,general_chat
+Schedule a team meeting for Monday morning at 9am,calendar_schedule
+Can you email me the presentation slides for tomorrow's meeting,email_send
+Can you show me the directions to the nearest gym from my location?,web_search
+Book a meeting with the IT department to resolve the ongoing technical issues.,calendar_schedule
+What benefits does the company offer to support work-life balance?,knowledge_query
+Can you explain the procedure for reporting a workplace injury?,knowledge_query
+Can you explain the company's approach to innovation and staying competitive in the industry?,knowledge_query
+What's the best advice you've ever received and from whom?,general_chat
+I need to email the customer with the shipping update,email_send
+What's the latest news about the technology industry and its trends?,web_search
+Send a notification email to the subscribers about the new feature,email_send
+What are the ingredients and recipe for chicken parmesan?,web_search
+Can you look up the nutrition facts for a Big Mac?,web_search
+Are there any employee discounts or perks available for company products or services?,knowledge_query
+Can you schedule a meeting with the creative team to brainstorm new ideas?,calendar_schedule
+I want to schedule a call with the customer support team to resolve the issue.,calendar_schedule
+Are there any discounts or perks available to employees for company products or services?,knowledge_query
+Send an email to the management team about the quarterly review.,email_send
+I want to know the history of the Eiffel Tower,web_search
+Can you schedule a meeting with the customer support team for next Tuesday,calendar_schedule
+How does the company support employees' mental health and well-being?,knowledge_query
+Please email the travel agent with our flight itinerary,email_send
+Please arrange a meeting with the sales team for tomorrow at 2pm.,calendar_schedule
+Send an email to the accounting department about the invoice,email_send
+I need to schedule a meeting with the training team to discuss the employee training program,calendar_schedule
+Look up the reviews for the new iPhone,web_search
+"It's great to finally catch up with you, how's life been treating you?",general_chat
+What are the expectations for employee conduct and behavior?,knowledge_query
+What is the protocol for reporting a workplace injury?,knowledge_query
+Can you schedule a meeting with the IT department for Thursday at 9am to discuss the network issues?,calendar_schedule
+Please schedule a meeting with the creative team to review the new designs and concepts.,calendar_schedule
+How do I get directions to the Grand Canyon?,web_search
+Find the nearest Starbucks to my location,web_search
+I'd like to book a meeting with the research team to discuss the market trends.,calendar_schedule
+Can you explain the company's approach to performance management?,knowledge_query
+Find the cheapest flights from New York to Miami,web_search
+What is the process for submitting a suggestion for process improvement?,knowledge_query
+Send an email to the marketing team to request more social media content,email_send
+Send an email to the supplier with the purchase order details,email_send
+"How was your weekend, do anything exciting?",general_chat
+What is the policy on flexible work arrangements and telecommuting?,knowledge_query
+I need to set up a meeting with the customer service team to address the recent issues.,calendar_schedule
+What's your favorite type of cuisine to try?,general_chat
+Book a meeting with the design team to discuss the upcoming product launch.,calendar_schedule
+What are the steps to follow when terminating an employee contract?,knowledge_query
+What are the company's expectations for employee conduct and behavior outside of work?,knowledge_query
+Search for the nearest grocery store that's open 24 hours,web_search
+"How was your morning, did you do anything exciting?",general_chat
+Please email the technical support team the system error logs for analysis,email_send
+Have you seen any good movies or TV shows lately?,general_chat
+Can you search for the top universities in the world?,web_search
+What's the most exciting thing you're looking forward to in the coming months?,general_chat
+"How's your family doing, anything new with them?",general_chat
+"Do you have any pets, and if so, what kind?",general_chat
+Email the sales team about the new product launch and pricing,email_send
+What's the weather forecast for London this weekend?,web_search
+I need to send an email to the university about my application status,email_send
+"I'm thinking of trying out a new restaurant, have you heard any good reviews?",general_chat
+Find the latest news about the upcoming presidential election,web_search
+Let's schedule a meeting with the client to discuss the project timeline.,calendar_schedule
+What do you like to do when you have some free time on a weekday?,general_chat
+Find the best Italian restaurants in Chicago,web_search
+What is the protocol for reporting a workplace injury or incident?,knowledge_query
+Can you arrange a conference call with the remote team members for this afternoon?,calendar_schedule
+Let's schedule a meeting to discuss the upcoming event planning and logistics.,calendar_schedule
+What are the business hours for the post office near me?,web_search
+Can you show me the directions to the Grand Canyon?,web_search
+Find the nearest gas station to my current location,web_search
+"I'm thinking of trying out a new restaurant, have you heard anything about it?",general_chat
+How's your week going so far?,general_chat
+How can I get the most up-to-date information on the COVID-19 vaccine?,web_search
+Do you have any fun plans for the upcoming holidays?,general_chat
+Can you book a meeting with the customer support team to review the recent issues?,calendar_schedule
+What's been the highlight of your month?,general_chat
+Look up the latest scores for the NBA games,web_search
+I want to send a welcome email to our new intern,email_send
+Please send an email to the editor about the article submission guidelines,email_send
+Schedule a meeting with the HR department to discuss the employee onboarding process.,calendar_schedule
+Can you please email the marketing team the latest sales report?,email_send
+Email the research team with the data analysis results,email_send
+Email the new employee about the company benefits and policies.,email_send
+Schedule a meeting with the team to review the progress and provide feedback.,calendar_schedule
+"What is the company's policy on diversity, equity, and inclusion?",knowledge_query
+Schedule a meeting with the client to discuss the contract renewal.,calendar_schedule
+What's something you're looking forward to doing in the next few months?,general_chat
+How was your morning so far?,general_chat
+How's work treating you?,general_chat
+Can you book a meeting room for the training session on customer relationship management?,calendar_schedule
+How do you like to spend a free afternoon?,general_chat
+Book a meeting room for the sales team meeting on Thursday afternoon.,calendar_schedule
+How does the company recognize and reward employee achievements and milestones?,knowledge_query
+Email the HR department the list of new employee hires,email_send
+What's your favorite type of cuisine to cook or eat out?,general_chat
+How do I get to the airport from downtown?,web_search
+What's the best part about your job or studies?,general_chat
+Search for the top 10 most popular tourist destinations in Europe,web_search
+Please set up a meeting with the development team to review the progress,calendar_schedule
+What is the process for providing feedback on company policies?,knowledge_query
+I need to email the event organizer with the list of attendees,email_send
+How's work treating you these days?,general_chat
+Can you show me the top news headlines for today?,web_search
+What is the procedure for reporting a workplace incident?,knowledge_query
+Can you explain the different types of employee benefits we offer?,knowledge_query
+How do I enroll in the company's 401k plan and what are the matching guidelines?,knowledge_query
+What are some things you're passionate about outside of work?,general_chat
+Can you walk me through the procedure for requesting a leave of absence?,knowledge_query
+I need to book a one-on-one meeting with my manager for this afternoon,calendar_schedule
+Can you walk me through the process for requesting a leave of absence?,knowledge_query
+Please schedule a meeting with the quality assurance team to discuss the testing results,calendar_schedule
+Schedule a meeting with the HR department to discuss the employee benefits,calendar_schedule
+We need to book a meeting room for our team's annual review on Monday at 10am.,calendar_schedule
+"Look up the translation of ""hello"" in Spanish",web_search
+Email the development team with the feedback from the beta testers,email_send
+"How was your weekend, did you do anything exciting?",general_chat
+Look up the history of the Olympic Games,web_search
+Can you please book a conference room for our client call on Wednesday?,calendar_schedule
+I'd like to book a meeting room for our team's weekly stand-up meeting on Tuesdays.,calendar_schedule
+Schedule a meeting with the client to review the proposal and discuss next steps.,calendar_schedule
+"I'm so glad we finally get to catch up, how have you been?",general_chat
+Can you explain the company's data protection and privacy policies?,knowledge_query
+Search for the nearest gym and its membership prices,web_search
+How does the company handle conflicts or disputes between employees?,knowledge_query
+I want to set up a meeting with the customer support team to review the feedback.,calendar_schedule
+What are the prices for flights from New York to Miami?,web_search
+How was your week?,general_chat
+Please send an email to the supplier about the order and delivery details,email_send
+I'd like to book a meeting with the marketing team to brainstorm new ideas.,calendar_schedule
+Please arrange a meeting with the marketing team for tomorrow at 2pm.,calendar_schedule
+Do you have any big goals or aspirations for the next year?,general_chat
+What is the process for filing a complaint or grievance?,knowledge_query
+Do you have any exciting trips planned for the future?,general_chat
+How's work or school treating you these days?,general_chat
+What are the requirements for advancing to a senior role within the company?,knowledge_query
+Send a notification email to all customers about the new product launch.,email_send
+I need to schedule a meeting with the finance team to review the budget report.,calendar_schedule
+Search for reviews of the latest Samsung smartwatch,web_search
+I need to set up a meeting with the finance team to review the budget on Thursday at 3pm.,calendar_schedule
+Schedule a meeting with the design team to brainstorm ideas for the new product launch.,calendar_schedule
+What are the rules regarding the use of social media during work hours?,knowledge_query
+Send an email to the customer service team regarding the new software update,email_send
+Forward the email from James to the development team.,email_send
+What's the population of Australia and its capital city?,web_search
+What are the guidelines for submitting expense reports?,knowledge_query
+How many ounces are in a gallon?,web_search
+What do you like to do to stay active and healthy?,general_chat
+What are the current prices for flights from Los Angeles to Chicago?,web_search
+Email the accounting department the receipt for the expense report,email_send
+"What's your favorite type of vacation, beach or city?",general_chat
+What's the latest news on the new Tesla electric car model?,web_search
+What do you like to do to get some exercise and stay active?,general_chat
+I want to send a newsletter to our subscribers with the latest news,email_send
+I want to email the board of directors about the quarterly financial results,email_send
+"I've been meaning to ask, how was your summer?",general_chat
+What do you like to do in your free time?,general_chat
+How do I request a flexible work arrangement or telecommuting option?,knowledge_query
+Can you add a meeting to my calendar with the customer support team for Monday at 2pm?,calendar_schedule
+How do I access the company's internal job postings and apply for open positions?,knowledge_query
+Please schedule a meeting with the team to discuss the new policy and procedures.,calendar_schedule
+What's the best book you've read lately?,general_chat
+How do I nominate a colleague for an employee recognition award?,knowledge_query
+I need to schedule a meeting with the finance team to review the budget,calendar_schedule
+Can you provide information about the company's employee recognition program?,knowledge_query
+Do you have any fun plans for the holidays?,general_chat
+Can you please email the marketing report to our manager,email_send
+How's the weather been treating you?,general_chat
+Can you forward this email to David regarding the conference details,email_send
+Can you find the phone number for the local pizza place?,web_search
+Can you arrange a conference call with our international partners for next week?,calendar_schedule
+What are you looking forward to doing soon?,general_chat
+Can you find the recipe for chicken parmesan with pasta?,web_search
+I'd like to book a meeting room for our board meeting on Friday at 10am.,calendar_schedule
+How's everything going at work or school?,general_chat
+What are the business hours for the local Walmart store?,web_search
+Can you find the address of the nearest post office?,web_search
+I want to send an email to the sales team about the new product launch.,email_send
+Email the HR department about the new employee onboarding process.,email_send
+Please schedule a meeting with the IT department to resolve the network issues.,calendar_schedule
+"How's work or school going, any new challenges or exciting projects?",general_chat
+Send a confirmation email to David about the upcoming conference.,email_send
+Schedule a meeting with the marketing team for next Wednesday at 10am to discuss the new campaign.,calendar_schedule
+I need to email the IT support team about the network issue,email_send
+Please arrange a meeting with the sales department for tomorrow at 2pm.,calendar_schedule
+Can you search for the recipe for chicken parmesan?,web_search
+Can you provide information on the company's data protection and confidentiality policies?,knowledge_query
+Book a meeting with the CEO to discuss the company's strategic plan,calendar_schedule
+Please send an email to the HR department about the training schedule,email_send
+What's the price of a MacBook Air right now?,web_search
+Please forward the meeting minutes to all attendees via email,email_send
+Can you please email the updated agenda to all participants,email_send
+I'd like to set up a meeting with the marketing manager to discuss the social media strategy.,calendar_schedule
+Please send an email to the event organizer with our registration details,email_send
+Are you looking forward to anything in particular this month?,general_chat
+How do I access the company's organizational chart?,knowledge_query
+How's your week starting out?,general_chat
+I'd like to book a conference call with the sales team for this afternoon to review the quarterly targets.,calendar_schedule
+Can you add a meeting to my calendar with the design team for next week?,calendar_schedule
+Search for the best deals on laptops this week,web_search
+"How's your job going, any new projects or challenges?",general_chat
+What do you like to do to relax and unwind?,general_chat
+Email the entire staff about the holiday schedule and office hours,email_send
+What is the timeline for the annual performance evaluation cycle?,knowledge_query
+Search for the nearest coffee shop to my location,web_search
+Please send an email to our partner about the joint business proposal,email_send
+Schedule a meeting with the marketing team to brainstorm ideas for the new campaign.,calendar_schedule
+Let's set up a meeting to discuss the upcoming event and make necessary arrangements.,calendar_schedule
+What's your favorite type of cuisine and why?,general_chat
+What is the process for submitting suggestions or ideas for improving company operations?,knowledge_query
+Let's book a meeting room for our monthly team meeting on the first Wednesday.,calendar_schedule
+What is the procedure for submitting a complaint or grievance?,knowledge_query
+I need to schedule a call with the potential investor for our startup next week.,calendar_schedule
+Can you find the latest stock prices for Apple and Google?,web_search
+Can you send a notification email to the users about the system update,email_send
+What are you looking forward to doing in the next few months?,general_chat
+Schedule a team meeting for Monday morning at 9am to discuss the new project.,calendar_schedule
+Can you give me directions to the Grand Canyon?,web_search
+Email the manager about the request for a day off next week,email_send
+Could you send an email to our supplier requesting a price quote?,email_send
+What are the core values that our company operates by?,knowledge_query
+Email the accounting department to request an invoice for the recent purchase,email_send
+Can you walk me through the process for filing a grievance?,knowledge_query
+Search for the best hotels in Las Vegas for under $100,web_search
+How do I find out about upcoming training sessions and workshops within the company?,knowledge_query
+Book a meeting with the development team to review the software updates and patches.,calendar_schedule
+Please arrange a meeting with the development team to discuss the new feature.,calendar_schedule
+Please set up a meeting for the project kick-off on the first day of next month.,calendar_schedule
+How does the company handle conflicts of interest and ethics violations?,knowledge_query
+Can you arrange a meeting with the product development team to discuss the new feature release?,calendar_schedule
+Can you search for the best hotels in Las Vegas?,web_search
+I need to set up a one-on-one meeting with my supervisor for this afternoon.,calendar_schedule
+What's one thing you're looking forward to doing this summer?,general_chat
+How do you like your new place?,general_chat
+What benefits does the company offer for employees with disabilities or special needs?,knowledge_query
+Look up the menu for the new Italian restaurant downtown,web_search
+Look up the biography of Elon Musk,web_search
+I want to schedule a meeting with the social media team to discuss our online presence and engagement.,calendar_schedule
+What's the current price of a MacBook Air?,web_search
+Do you have any big goals or aspirations for the year?,general_chat
+Search for the nearest Starbucks to my location,web_search
+Can you email me the report on sales performance for the last quarter,email_send
+Send a reminder email to the team about the deadline for the project,email_send
+Find the top-rated coffee shops in San Francisco,web_search
+Look up the address of the nearest post office,web_search
+What's the latest news on the upcoming presidential election?,web_search
+What's the population of Australia?,web_search
+How do I nominate someone for an employee award?,knowledge_query
+What do you usually do to relax after a long day?,general_chat
+Please book a meeting room for the board meeting on Friday at 9am.,calendar_schedule
+Search for the top colleges in the United States,web_search
+What's the highlight of your month so far?,general_chat
+Look up the prices for flights from New York to Paris,web_search
+What time does the mall open on Sundays?,web_search
+Search for the best places to visit in Europe during summer,web_search
+Look up the price of the new iPhone,web_search
+What are the company's goals and objectives for the upcoming quarter?,knowledge_query
+Find the reviews for the movie The Shawshank Redemption,web_search
+What are the latest news headlines about climate change?,web_search
+Let's schedule a call with the marketing team to review the campaign strategy.,calendar_schedule
+Please book a meeting room for our training session on Tuesday at 1pm.,calendar_schedule
+Can you explain the procedure for reporting a workplace incident?,knowledge_query
+Can you arrange a lunch meeting with Michael for Wednesday at 12pm?,calendar_schedule
+Can you email the design team the updated branding guidelines,email_send
+Email the entire staff about the holiday schedule,email_send
+Can you put a meeting on my calendar with the design team for tomorrow,calendar_schedule
+What is the protocol for reporting a workplace incident or injury?,knowledge_query
+What's the protocol for addressing workplace harassment?,knowledge_query
+How do I get directions to the nearest grocery store?,web_search
+Let's schedule a call with the marketing team for next Tuesday at 2pm.,calendar_schedule
+What's the population of Australia as of 2022?,web_search
+How do I access the employee handbook and company policies online?,knowledge_query
+Send an email to the event organizers about the catering and logistics,email_send
+Can you explain the procedure for addressing conflicts or complaints?,knowledge_query
+Can you arrange a meeting with the marketing team to discuss the social media campaign,calendar_schedule
+Can you outline the procedure for submitting expense reports and reimbursements?,knowledge_query
+Can you explain the different types of leave available to employees?,knowledge_query
+Send a notification to the marketing team via email about the upcoming campaign,email_send
+Can you set up a meeting with the operations team to discuss the logistics,calendar_schedule
+What is the policy on using company resources for personal projects?,knowledge_query
+What's the definition of artificial intelligence?,web_search
+How was your experience at the new restaurant downtown?,general_chat
+Can you show me the map of the New York City subway system?,web_search
+Search for the nearest hospital to my location,web_search
+What are the business hours for the local post office?,web_search
+Send a reminder email to James about the deadline for the assignment,email_send
+I need to send an email to the IT department about the server issue,email_send
+Please book a meeting with the finance team to review the budget for next quarter.,calendar_schedule
+Find the menu for the nearest McDonald's restaurant,web_search
+Can you search for the best Italian restaurants in San Francisco?,web_search
+"I haven't seen you in a while, how have you been?",general_chat
+I want to send an email to my boss about my performance review,email_send
+"How's your family doing, any new additions or updates?",general_chat
+Email the sales team about the new product launch and marketing strategy,email_send
+Can you please book a conference room for our client meeting on Wednesday?,calendar_schedule
+How was your holiday season?,general_chat
+Can you send an email to our investor with the quarterly report,email_send
+Book a meeting with the sales manager to review the quarterly targets.,calendar_schedule
+Please send a follow-up email to the client about the proposal,email_send
+Book a meeting room for the project discussion on Friday at 2pm,calendar_schedule
+Look up the reviews of the new Tesla electric car,web_search
+I need to book a meeting with the client to review the contract on Wednesday at 11am.,calendar_schedule
+Send an email to the vendor about the contract and agreement terms,email_send
+Search for the best ways to learn a new language online,web_search
+"What's the meaning of the word ""sustainability""?",web_search
+I need to send an email to the HR department about the employee benefits,email_send
+What's the weather forecast for tomorrow in London?,web_search
+Send an email to the event organizers about the catering details,email_send
+Please send an email to our business partner about the joint venture proposal.,email_send
+What's the process for requesting a leave of absence?,knowledge_query
+Can you please forward this report to Emily via email?,email_send
+Please schedule an interview with the candidate for Tuesday at 3pm.,calendar_schedule
+"I love your scarf, where did you get it?",general_chat
+Can you please email the marketing team the latest sales report,email_send
+How do I get in touch with the HR department for support?,knowledge_query
+Can you send an email to the customer about the order status and tracking,email_send
+Can you email the IT department about the computer issues we're experiencing,email_send
+Send a reminder to the project team about the deadline for submissions,email_send
+How do I access the company's internal knowledge base?,knowledge_query
+What are the store hours for Walmart on Sundays?,web_search
+Send a follow-up email to the marketing team about the upcoming campaign,email_send
+What's the most interesting thing you've learned recently?,general_chat
+What's your favorite type of music and why?,general_chat
+Can you schedule a meeting with the customer service team to address the complaints?,calendar_schedule
+Can you email the newsletter to the subscribers and update the mailing list,email_send
+How do I access the company's internal knowledge base for employee resources?,knowledge_query
+Set up a meeting with the HR team to review the employee onboarding process.,calendar_schedule
+Schedule a meeting with the creative team to brainstorm ideas for the advertising campaign.,calendar_schedule
+Do you have any hobbies or interests that you're passionate about?,general_chat
+What's the latest update on the COVID-19 vaccine?,web_search
+Email the accounting department about the invoice and payment details,email_send
+"I hope you're having a great day, what's been the highlight?",general_chat
+How do I get reimbursement for professional development courses?,knowledge_query
+Please email the customer service team about the complaint we received,email_send
+Please send an email to the supplier about the delayed shipment.,email_send
+Can you tell me more about the company's diversity and inclusion initiatives?,knowledge_query
+I need to email the supplier about the delayed shipment,email_send
+Can you find the menu for the new sushi place downtown?,web_search
+Please email the customer service team about the issue with my account,email_send
+How do I get to the nearest airport from my location?,web_search
+Can you find the menu for the Cheesecake Factory?,web_search
+What is the company's stance on diversity and inclusion?,knowledge_query
+How was your week and do you have any fun plans coming up?,general_chat
+Send a follow-up email to Emily about the upcoming conference.,email_send
+Find the best Italian restaurants in San Francisco,web_search
+Search for the cheapest flights from New York to Miami,web_search
+What's the current exchange rate for US dollars to euros?,web_search
+Can you describe the onboarding process for new employees?,knowledge_query
+How do I enroll in the company's 401k plan?,knowledge_query
+"What's your favorite type of music, have you been to any good concerts?",general_chat
+I need to schedule a meeting with the product team to review the roadmap on Wednesday at 2pm.,calendar_schedule
+Please send an email to the entire department about the holiday schedule,email_send
+What's the weather forecast for the weekend in Denver?,web_search
+What's the definition of blockchain technology?,web_search
+"What's been on your mind lately, anything you want to talk about?",general_chat
+How do I report a concern about workplace safety?,knowledge_query
+I'd like to set up a meeting with the product manager to discuss the new feature.,calendar_schedule
+What's your go-to spontaneous date night idea?,general_chat
+What is the company's stance on professional development and continuing education?,knowledge_query
+How does the company approach professional development and training for employees?,knowledge_query
+What kind of music have you been listening to lately?,general_chat
+What's the current stock price of Apple?,web_search
+What's the price of a new iPhone 13?,web_search
+Can you email the designer about the changes to the website layout,email_send
+Can you provide an overview of the company's organizational structure?,knowledge_query
+Find the cheapest flights from New York to London,web_search
+Can you find the latest news on the NFL draft?,web_search
+Can you find the recipe for chicken parmesan online?,web_search
+Book a meeting with the IT department to discuss the network issues we're experiencing.,calendar_schedule
+Send a reminder email to the team about the upcoming deadline,email_send
+Please send a reminder email to the team about the deadline,email_send
+What are the company's policies on data protection and privacy?,knowledge_query
+Please set up a meeting with the quality assurance team to discuss the testing process.,calendar_schedule
+Please schedule a meeting with the finance team to review the expenses.,calendar_schedule
+Please schedule a meeting with the customer success team to review their performance metrics.,calendar_schedule
+Can you schedule a call with the client to discuss their feedback and concerns?,calendar_schedule
+Can you find the recipe for chicken parmesan?,web_search
+Book a meeting with the design team to discuss the new product launch.,calendar_schedule
+Email the HR department about the new employee onboarding process,email_send
+Send a notification email to all employees about the system update,email_send
+I want to schedule a meeting with the design team to review the new prototype.,calendar_schedule
+What do you like to do when you're feeling stressed or overwhelmed?,general_chat
+What kinds of training programs are available to help me improve my skills?,knowledge_query
+I need to schedule a meeting with the training department to discuss the employee development program.,calendar_schedule
+Can you look up the history of the Internet?,web_search
+"How do you like to spend time with friends, do you have any regular activities?",general_chat
+How does the employee referral program work and what are the incentives?,knowledge_query
+What are the top news stories today?,web_search
+What time does the movie theater open tonight?,web_search
+What are the guidelines for using company property and equipment?,knowledge_query
+Send an email to the recruitment team about the new job opening,email_send
+What are the rules and regulations regarding company property and equipment usage?,knowledge_query
+How do I know if I'm eligible for a salary increase or promotion?,knowledge_query
+What's the forecast for the weekend in Miami?,web_search
+What are your favorite hobbies to enjoy outdoors?,general_chat
+I need to schedule a meeting with the IT department to resolve the technical issue.,calendar_schedule
+Please email the travel itinerary to the management team,email_send
+I'd like to book a meeting with the consultant to discuss the market research findings.,calendar_schedule
+How does the company handle conflicts of interest or ethical dilemmas?,knowledge_query
+What's your favorite type of music to listen to?,general_chat
+What is the policy on using social media during work hours?,knowledge_query
+Please schedule a meeting with the development team to review the latest updates.,calendar_schedule
+What are the top-rated hotels in Las Vegas?,web_search
+Can you please email the latest sales report to our manager,email_send
+Email the operations team about the change in procedure,email_send
+I need to find the latest reviews for the new iPhone model,web_search
+Have you traveled anywhere exciting recently or have any trips coming up?,general_chat
+Set up a meeting with the design team to discuss the new product launch.,calendar_schedule
+Email the customer support team about the complaint we received,email_send
+Please send an email to the manager about the project status,email_send
+How do I get directions to the Grand Canyon from my current location?,web_search
+Look up the history of the internet,web_search
+What's the distance between New York and Los Angeles?,web_search
+Can you show me the map of downtown San Francisco?,web_search
+Please send a welcome email to our new employee with onboarding details,email_send
+"How's work or school going, any new challenges or successes?",general_chat
+Can you email the latest newsletter to our subscribers,email_send
+Can you arrange a meeting with the HR department for Thursday at 1pm to discuss the new policy?,calendar_schedule
+What's your go-to activity when you need to unwind?,general_chat
+"How's your family doing, any new additions?",general_chat
+"I feel like I haven't seen you in ages, how have you been?",general_chat
+How often are employee salaries reviewed for potential raises?,knowledge_query
+Search for the cheapest flights from Chicago to Miami,web_search
+What are the expectations for maintaining confidentiality in the workplace?,knowledge_query
+Can you please email the meeting invitation to all stakeholders,email_send
+Send an email to the event organizers with the list of attendees,email_send
+Schedule a call with the customer support team for this afternoon at 4:30pm to discuss the feedback.,calendar_schedule
+What are the symptoms of the flu and how to treat it?,web_search
+Send a reminder email to the team about the upcoming deadline.,email_send
+I want to email the marketing team about the social media campaign.,email_send
+I'd like to arrange a meeting with the CEO for Friday at 4pm to discuss the quarterly report.,calendar_schedule
+I need to send a confirmation email to the registrants for the workshop,email_send
+What's the best way to get to the Grand Canyon from Phoenix?,web_search
+"I heard about a great new movie, have you seen it?",general_chat
+Can you show me the directions from my location to the nearest Starbucks?,web_search
+What are the rules for taking time off during peak seasons?,knowledge_query
+Please send an email to our business partners regarding the contract renewal,email_send
+Can you show me the latest sports news?,web_search
+Can you send an email to our business partner about the proposed partnership,email_send
+What's the current exchange rate for euros to dollars?,web_search
+Search for information on the benefits of meditation,web_search
+What's something you're really proud of accomplishing?,general_chat
+What's your favorite type of book or genre to read?,general_chat
+What are the guidelines for traveling for work and claiming expenses?,knowledge_query
+Email the finance department about the budget for the new quarter,email_send
+Arrange a meeting with the HR team to discuss the employee onboarding process.,calendar_schedule
+What's something you're really passionate about outside of work?,general_chat
+Can you walk me through the steps for filing a grievance or complaint?,knowledge_query
+"How's your family doing, I feel like I haven't seen them in ages?",general_chat
+"How do I request a flexible work arrangement, such as telecommuting or part-time work?",knowledge_query
+I'd like to book a meeting with the operations team to discuss the logistics and supply chain.,calendar_schedule
+What's one thing you're looking forward to doing in the next few months?,general_chat
+What are the guidelines for using company resources for personal projects?,knowledge_query
+I want to schedule a lunch meeting with John to talk about the current project.,calendar_schedule
+What are the showtimes for the movie theater near me?,web_search
+I'd like to schedule a call with the supplier for Tuesday at 11am to discuss the order.,calendar_schedule
+Please send an email to the university about the scholarship application,email_send
+Schedule a lunch meeting with John for Friday at 12pm to discuss the proposal.,calendar_schedule
+How do I nominate someone for an employee recognition award?,knowledge_query
+Please set up a meeting with the executive team to review the company's performance.,calendar_schedule
+I need to email the event planner about the catering for the wedding,email_send
+"I feel like I haven't seen you in ages, how's life been treating you?",general_chat
+Send a follow-up email to the customer about the order status,email_send
+Please schedule a meeting with the sales team to review their sales strategy.,calendar_schedule
+Can you provide an overview of the company's organizational structure and leadership team?,knowledge_query
+What do you like to do when you're feeling stressed?,general_chat
+Schedule a meeting with the team for next Tuesday at 10am to discuss the project status.,calendar_schedule
+Look up the phone number for Domino's Pizza,web_search
+How do I get to the Empire State Building from Times Square?,web_search
+How do you like to relax after a long day?,general_chat
+Let's schedule a call with the marketing team to review the campaign results.,calendar_schedule
+What are the company's expectations for maintaining confidentiality?,knowledge_query
+Send an email to the finance team about the budget allocation for the quarter,email_send
+Find the best route to take from Los Angeles to Las Vegas,web_search
+Email the production team with the updated production schedule,email_send
+How does our company approach innovation and staying ahead of industry trends?,knowledge_query
+Let's book a conference call with the international team for next week.,calendar_schedule
+What's new with you?,general_chat
+I want to read the latest news about space exploration,web_search
+I want to send an email to our partners about the joint project,email_send
+I need to send an email to the HR department about my vacation request,email_send
+What is the policy on flexible working hours and telecommuting?,knowledge_query
+How do I get to the nearest Starbucks from here?,web_search
+Can you email the web developer about the website redesign project,email_send
+Can you schedule a meeting with the operations team to review the logistics plan?,calendar_schedule
+I need to book a meeting with the finance team to review the budget report.,calendar_schedule
+Find the phone number of the nearest pizza delivery place,web_search
+Email the research team with the data from the recent survey,email_send
+What's the most memorable gift you've ever received?,general_chat
+What's the rating for the new movie released last week?,web_search
+"I'm so glad we ran into each other, how have you been?",general_chat
+What are the reviews for the new iPhone model?,web_search
+Please email the sales report to the management team by the end of the day,email_send
+I need to send an email to the customer about the order confirmation,email_send
+Search for the nearest gym to my current location,web_search
+What is the policy on bringing family members to company events?,knowledge_query
+Send an email to the IT department to report a technical issue,email_send
+"How's the family, everyone doing okay?",general_chat
+What's your favorite way to spend time with friends?,general_chat
+Please set up a meeting with our business partner for the following week.,calendar_schedule
+Please arrange a meeting with the IT department to resolve the network issues.,calendar_schedule
+Please send an email to the client about the project timeline.,email_send
+Schedule a meeting with the IT department to discuss the upcoming system update.,calendar_schedule
+Please email the marketing team with the updated campaign details.,email_send
+"What's new with you, how was your week so far?",general_chat
+What's your favorite type of food and why?,general_chat
+How does the company support employees with disabilities or special needs?,knowledge_query
+Please schedule a meeting with the finance team to review the budget report.,calendar_schedule
+I want to know the history of the Internet,web_search
+How does the company's tuition reimbursement program work and what's covered?,knowledge_query
+Please arrange a meeting with the IT department to discuss the system update,calendar_schedule
+Can you book a meeting with the consultant for Thursday at 9am to discuss the strategy?,calendar_schedule
+"Do you have any pets, I'm thinking of getting one and would love some advice?",general_chat
+Send a notification email to all subscribers about the new feature,email_send
+Can you forward this email to David and ask for his feedback,email_send
+What's the procedure for requesting a flexible work arrangement?,knowledge_query
+I need to forward this email to Emily for her review,email_send
+We need to schedule a meeting with the CEO to discuss the company's strategic plan.,calendar_schedule
+Have you read any good books or seen any good movies lately?,general_chat
+Please send an email to the university about the admission and enrollment process,email_send
+Search for the phone number of the nearest pizza place,web_search
+Please arrange an interview with the candidate for Wednesday morning at 9am in the main office.,calendar_schedule
+How do I access the employee handbook online?,knowledge_query
+Please arrange a call with the marketing team for tomorrow at 2pm.,calendar_schedule
+I want to send an email to the hotel about the room reservation,email_send
+What's the best thing that's happened to you this month?,general_chat
+What's the process for providing feedback on company policies?,knowledge_query
+"I heard about the new restaurant downtown, have you tried it?",general_chat
+What's the average price of a new iPhone?,web_search
+Look up the history of the United States and its founding fathers,web_search
+What are the guidelines for business travel and expense reporting?,knowledge_query
+Can you please email the design team the updated branding guidelines?,email_send
+Please email the design team the updated branding guidelines,email_send
+I need to schedule a meeting with the IT team to resolve the technical issues with the website.,calendar_schedule
+"I've been meaning to ask, how's your family doing?",general_chat
+How do I enroll in the company's 401k plan and what are the benefits?,knowledge_query
+Can you provide information about the company's retirement plan?,knowledge_query
+Do you have any pets at home?,general_chat
+Email the customer service team the new protocol for handling complaints,email_send
+Can you book a meeting room for our team's monthly meeting on the 15th?,calendar_schedule
+Can you walk me through the process of requesting a leave of absence?,knowledge_query
+What's the address of the White House?,web_search
+What is the company's policy on professional development opportunities?,knowledge_query
+Send a confirmation email to the client about the appointment,email_send
+Send an email to the customer service team regarding the complaint,email_send
+I'd like to schedule an interview with the candidate for Tuesday at 10am.,calendar_schedule
+Can you schedule an interview with the candidate for the open position on Thursday?,calendar_schedule
+Can you describe the onboarding process for new employees and what to expect?,knowledge_query
+"I've been meaning to ask, have you tried any good restaurants or movies lately?",general_chat
+Please send a notification email to all subscribers about the newsletter update,email_send
+Can you forward this email to the quality assurance team for review,email_send
+Are there any company-sponsored wellness initiatives or programs?,knowledge_query
+What is the protocol for reporting a workplace incident or accident?,knowledge_query
+Please send a welcome email to the new employee with company information,email_send
+I'd like to schedule a call with the client to review the proposal,calendar_schedule
+What are the requirements for advancing to a senior role?,knowledge_query
+Can you explain the procedure for filing a grievance or complaint?,knowledge_query
+How does the company approach performance management and evaluations?,knowledge_query
+What are the company's rules and regulations regarding workplace romance and relationships?,knowledge_query
+Have you read any good books or seen any good movies recently?,general_chat
+Find the top-rated hotels in Las Vegas,web_search
+Have you tried any new restaurants or cafes recently?,general_chat
+Can you email the travel agency about the flight itinerary?,email_send
+How was your experience at the last concert you attended?,general_chat
+I need to send an email to the finance department about the invoice,email_send
+What's your favorite way to spend a Sunday afternoon?,general_chat
+Email the entire staff about the company-wide holiday party,email_send
+Email the research team with the updated data and findings,email_send
+Search for the history of the Olympic Games,web_search
+Send a confirmation email to David about the upcoming conference,email_send
+Do you have any big goals or resolutions for the upcoming year?,general_chat
+"Do you have any pets, I'm thinking of getting a dog?",general_chat
+What's the exchange rate for euros to dollars today?,web_search
+What's your favorite hobby and why do you enjoy it?,general_chat
+Find the best deals on Black Friday sales,web_search
+I need to schedule a meeting with the HR team to discuss the new policy.,calendar_schedule
+What are the steps for requesting a salary review or raise?,knowledge_query
+What's your favorite way to unwind after a long day?,general_chat
+Schedule a team meeting for Monday morning at 9am to discuss the quarterly goals.,calendar_schedule
+I need to email David regarding the changes to the contract.,email_send
+Do you have any big goals or projects you're working on?,general_chat
+Can you search for the best hiking trails near me?,web_search
+How was your summer break?,general_chat
+Let's schedule a meeting to review the sales report for the last quarter.,calendar_schedule
+Book a meeting room for the sales team training session on Friday at 2pm.,calendar_schedule
+I need to send an email to the IT department about the network issue.,email_send
+"What kind of music have you been listening to lately, discovered any new artists?",general_chat
+I'd like to schedule a meeting with the HR department to discuss the new company policies.,calendar_schedule
+Can you show me the latest news about the economy?,web_search
+"What's the best advice you've received recently, or what's something you've learned?",general_chat
+"I heard the weather is nice this time of year, have you gotten outside to enjoy it?",general_chat
+What are the benefits of participating in the company's wellness program?,knowledge_query
+What's your favorite type of movie or book and why?,general_chat
+I would like to send a welcome email to our new employee.,email_send
+How do you like to stay active and healthy?,general_chat
+How do you like to spend a rainy day?,general_chat
+Can you show me the map of the London subway system?,web_search
+"What's your favorite type of cuisine, do you have a go-to order or restaurant?",general_chat
+What's your favorite way to spend a sunny day?,general_chat
+Can you search for the nearest grocery store?,web_search
+Have you read any good books or articles recently that you'd recommend?,general_chat
+I want to send a newsletter to our customers about the new products,email_send
+What do you like to do to stay active?,general_chat
+Please forward the email from Michael to the sales team,email_send
+What's new with you lately?,general_chat
+How was your week so far?,general_chat
+How does the company handle conflicts of interest?,knowledge_query
+Can you send a follow-up email to the client about the proposal,email_send
+Can you please book a conference room for our client presentation next Wednesday?,calendar_schedule
+"What are the procedures for terminating employment, either voluntarily or involuntarily?",knowledge_query
+I want to send a welcome email to our new employee,email_send
+Can you search for the latest fashion trends for summer?,web_search
+What's the definition of climate change?,web_search
+Can you explain the company's social media policy?,knowledge_query
+How much does a ticket to the museum cost?,web_search
+What's included in our employee assistance program?,knowledge_query
+What are the steps for reporting a workplace incident or injury?,knowledge_query
+I want to send a thank-you email to our donors for their support,email_send
+Send a follow-up email to Rachel regarding the pending order,email_send
+Can you email me the meeting minutes from yesterday's discussion?,email_send
+Look up the definition of artificial intelligence,web_search
+"I heard the weather is going to be great this weekend, do you have any outdoor plans?",general_chat
+We need to set up an interview with the candidate for the open position on Tuesday.,calendar_schedule
+What are the company's goals and objectives for the upcoming quarter and how do they impact my role?,knowledge_query
+What's the most spontaneous thing you've ever done?,general_chat
+What are the company's expectations for employee conduct and behavior?,knowledge_query
+I want to send an email to the customer service team about the new procedure,email_send
+How's your family doing?,general_chat
+Email the production team about the deadline for the project.,email_send
+Look up the phone number for the customer service of Amazon,web_search
+What is the company's policy on confidentiality and data protection?,knowledge_query
+Please arrange a meeting with the sales team to review the quarterly report.,calendar_schedule
+Schedule an interview with the candidate for the open position on Thursday,calendar_schedule
+What are the steps to request a leave of absence?,knowledge_query
+Search for the phone number of the nearby pizza place,web_search
+What are the company's policies on data security and protecting sensitive information?,knowledge_query
+Can I get a copy of the company's code of conduct?,knowledge_query
+Have you seen any good TV shows or movies that you'd recommend?,general_chat
+Let's book a meeting room for the training session on Friday afternoon.,calendar_schedule
+Can you explain the different types of employee recognition programs we have?,knowledge_query
+Can you arrange a conference call with the marketing team for next Wednesday,calendar_schedule
+Can you search for the best deals on flights to Hawaii?,web_search
+Email the design team the updated logo designs for feedback,email_send
+What are the benefits of our employee wellness program?,knowledge_query
+How do I access my pay stubs and other payroll information online?,knowledge_query
+"I'm thinking of trying out a new hobby, do you have any suggestions?",general_chat
+Can you show me the directions to the nearest airport?,web_search
+"How was your holiday, did you do anything exciting?",general_chat
+What's the weather forecast for the weekend in Miami?,web_search
+Please send an email to Emily regarding the upcoming conference,email_send
+Send a follow-up email to David about the contract details,email_send
+How do I access the company's intranet and internal resources?,knowledge_query
+How's your week been so far?,general_chat
+What is the company's policy on data protection and confidentiality?,knowledge_query
+How do I get involved in company-sponsored volunteer opportunities and community events?,knowledge_query
+I want to book a meeting with the finance team to review the budget for next year.,calendar_schedule
+What's the current exchange rate between USD and EUR?,web_search
+Please set up a recurring meeting with the development team every Monday at 3pm.,calendar_schedule
+Send an email to the marketing agency about the social media campaign,email_send
+Email the marketing team about the upcoming campaign,email_send
+What's your go-to spot to grab coffee?,general_chat
+What is the typical career path for someone in my role?,knowledge_query
+Email the recruitment team about the job posting and candidate applications,email_send
+What's the most exciting thing you have planned for the rest of the year?,general_chat
+Email the entire department about the scheduled maintenance tomorrow.,email_send
+How does the company approach diversity and inclusion in the workplace?,knowledge_query
+I want to schedule a meeting with the IT department to resolve the technical issue.,calendar_schedule
+I need to set up a meeting with the operations team to discuss the logistics.,calendar_schedule
+What's the current temperature in Los Angeles?,web_search
+Send a confirmation email to the attendees of the conference,email_send
+Can you please email the travel agent about the flight itinerary,email_send
+I need to set up a one-on-one meeting with my supervisor for next Friday.,calendar_schedule
+I need to find the reviews for the new iPhone,web_search
+Let's schedule a meeting to discuss the project timeline and milestones.,calendar_schedule
+What's the latest news on the election results?,web_search
+"I hope you're doing well, what's new and exciting?",general_chat
+How does the company support employees with disabilities?,knowledge_query
+How's everything at home?,general_chat
+"I heard about a new restaurant downtown, have you tried it?",general_chat
+Do you have any big goals or projects you're working on right now?,general_chat
+Can you send an email to Emily about the job opportunity,email_send
+How do I request a change in my job title or responsibilities?,knowledge_query
+Can you find the latest updates on the COVID-19 vaccine?,web_search
+What are the company's policies on intellectual property?,knowledge_query
+What are the rules for using social media at work?,knowledge_query
+What is the protocol for dealing with a confidential or sensitive issue?,knowledge_query
+What's the most interesting thing you've learned this year?,general_chat
+Can you arrange a meeting with the product manager to review the roadmap?,calendar_schedule
+What is the company's approach to innovation and staying ahead of industry trends?,knowledge_query
+What's your favorite hobby and how did you get into it?,general_chat
+How do I get access to the company's organizational chart?,knowledge_query
+What did you think of the movie that just came out?,general_chat
+"How's everything going, any new developments?",general_chat
+What kinds of support or resources are available for employees with disabilities?,knowledge_query
+How do you like to spend a relaxing Sunday afternoon?,general_chat
+Can you walk me through the onboarding process for new hires?,knowledge_query
+I'd like to schedule a lunch meeting with John for tomorrow at 12:30pm.,calendar_schedule
+What are your favorite hobbies to do in your free time?,general_chat
+Look up the prices for the latest smartwatch models,web_search
+I want to schedule a call with the supplier to discuss the delivery schedule.,calendar_schedule
+What's one thing you're really passionate about outside of work?,general_chat
+What are the top stories in the news today?,web_search
+Find the reviews and ratings of the latest Netflix series,web_search
+I want to send a newsletter to our subscribers about the latest news,email_send
+What benefits does the company offer for professional development?,knowledge_query
+Can you add a meeting to my calendar with the client for next Tuesday at 10am?,calendar_schedule
+What do you like to do to relax and unwind after a long day?,general_chat
+Are there any resources available to help employees manage stress?,knowledge_query
+Can I get a copy of the employee handbook or access it online?,knowledge_query
+Can you book a meeting room for our quarterly review on the 15th of this month?,calendar_schedule
+How do you like to celebrate your birthday or special occasions?,general_chat
+What's one thing you're really passionate about outside of work or school?,general_chat
+I want to schedule a lunch meeting with John to discuss the project proposal.,calendar_schedule
+How does our company support employees with family care responsibilities?,knowledge_query
+What is the process for providing feedback or complaining about a manager?,knowledge_query
+Schedule a meeting with the executive team to discuss the company's performance,calendar_schedule
+What are the rules regarding social media use during work hours?,knowledge_query
+What's the weather forecast for London next week?,web_search
+"I feel like I haven't seen you in ages, how are you doing?",general_chat
+What are the rules for participating in company-sponsored volunteer events?,knowledge_query
+I need to schedule a meeting with the HR department to discuss the new employee onboarding process.,calendar_schedule
+Please set up a recurring meeting with the development team every morning at 10am.,calendar_schedule
+Can you tell me more about our employee assistance program?,knowledge_query
+How often are employee evaluations conducted and what's the process?,knowledge_query
+Are there any resources available to help with stress management and wellness?,knowledge_query
+Can you arrange a lunch meeting with John for Friday at 12pm?,calendar_schedule
+Book a meeting with the sales team to discuss the quarterly targets and strategies.,calendar_schedule
+Please arrange a call with the marketing team for next Thursday at 2pm.,calendar_schedule
+Book a meeting with the quality assurance team to review the testing results and protocols.,calendar_schedule
+How's the weather been where you live?,general_chat
+How's the weather been in your area?,general_chat
+Look up the history of the Internet,web_search
+Please schedule a meeting with the design team to discuss the new product launch.,calendar_schedule
+Search for the reviews of the new iPhone model,web_search
+What support does the company offer for employees with disabilities?,knowledge_query
+Do you have any exciting trips or travels coming up soon?,general_chat
+Do you have any big goals or aspirations that you're working towards?,general_chat
+What did you think of the recent movie releases?,general_chat
+How does the company support employees who are going through a difficult time?,knowledge_query
+What's the best book you've read recently?,general_chat
+How was your morning?,general_chat
+What are the company's expectations for working hours and overtime?,knowledge_query
+I'm so glad we finally get to catch up.,general_chat
+Can you find the latest sports news and updates?,web_search
+Do you have a favorite type of cuisine or restaurant?,general_chat
+What's the recipe for chicken parmesan?,web_search
+I'd like to know more about the employee recognition and reward program.,knowledge_query
+I need to email the IT department about the issue with my computer,email_send
+I want to schedule a call with the client to discuss the contract renewal.,calendar_schedule
+What are the company's policies on data protection and confidentiality?,knowledge_query
+Can you email the agenda for the meeting to all attendees?,email_send
+Search for the latest news on climate change,web_search
+Send a confirmation email to the attendees of the seminar.,email_send
+What's the definition of climate change and its effects on the environment?,web_search
+I need to forward this email to Emily regarding the new project,email_send
+What are the steps for filing a complaint or grievance with HR?,knowledge_query
+"How's your summer going, is it turning out to be what you expected?",general_chat
+What do you like to do to relax after a long day?,general_chat
+How's everything going at work?,general_chat
+How do you like to celebrate your birthday?,general_chat
+What are the steps to follow when submitting a complaint or grievance?,knowledge_query
+I need to send an email to the procurement team about the new vendor contract,email_send
+Find the menu for the nearest McDonald's,web_search
+I'd like to schedule a meeting with the marketing team to brainstorm new ideas.,calendar_schedule
+What is the process for providing feedback or suggestions for company improvement?,knowledge_query
+Search for the best deals on flights to Hawaii,web_search
+What are the rules for using social media during work hours?,knowledge_query
+Can you look up the schedule for the NBA games today?,web_search
+What are the symptoms of the flu?,web_search
+What's your favorite season of the year and why?,general_chat
+Can you schedule a meeting with John for Thursday at 10am to discuss the proposal?,calendar_schedule
+Can you reserve a boardroom for our annual meeting on the last Friday of the month?,calendar_schedule
+What are the company's policies on professional development and continuing education?,knowledge_query
+Can you schedule a one-on-one meeting with John for next Monday at 10am to discuss the marketing strategy?,calendar_schedule
+What are the guidelines for communicating with the media or press?,knowledge_query
+What's the best thing that's happened to you recently?,general_chat
+Please schedule a meeting with the customer support team to address the recent complaints.,calendar_schedule
+Please send an email to our business partner about the contract renewal,email_send
+How do I access the company's internal job postings?,knowledge_query
+What are the rules and regulations regarding company-sponsored events?,knowledge_query
+"What's your favorite type of food, have you tried any new restaurants?",general_chat
+How do I enroll in the company's retirement savings plan?,knowledge_query
+Can you describe the onboarding process for new hires?,knowledge_query
+Search for the best hotels in Paris for my upcoming trip,web_search
+Can you explain the company's data privacy and security policies?,knowledge_query
+What is the protocol for reporting a violation of company policies or code of conduct?,knowledge_query
+Can you forward this email to the marketing team for review,email_send
+What are you looking forward to doing this summer?,general_chat
+What are the rules and regulations regarding company-sponsored travel?,knowledge_query
+Find the latest news on the upcoming election,web_search
+Find the phone number for the customer service department of Apple,web_search
+What time does the sun set in Chicago today?,web_search
+Send an email to the finance department about the budget allocation.,email_send
+Can you email me the agenda for the meeting on Friday?,email_send
+What are the company's expectations for business travel expenses?,knowledge_query
+What's something you're looking forward to doing soon?,general_chat
+Schedule a team meeting for Monday morning at 9am to discuss the upcoming project.,calendar_schedule
+Can you email the research paper to the professor for review,email_send
+Email the entire staff about the new security protocols.,email_send
+What's something you're looking forward to doing in the near future?,general_chat
+I'd like to arrange a meeting with the design team to discuss the new product launch.,calendar_schedule
+Search for information on the best colleges in the US,web_search
+What benefits do we offer to employees with disabilities?,knowledge_query
+Schedule a meeting for the product launch on the last day of this month.,calendar_schedule
+Schedule a meeting with the CEO to discuss the company's future plans.,calendar_schedule
+Look up the stock prices of Google and Amazon,web_search
+What benefits does the company offer for employees with disabilities?,knowledge_query
+Schedule a follow-up call with the client for the day after tomorrow at 11am.,calendar_schedule
+Where can I find the latest updates on the COVID-19 vaccine?,web_search
+Can you find the phone number for the local post office?,web_search
+Send an email to the travel agency about the flight and hotel bookings,email_send
+Email the human resources department about the job opening,email_send
+What are the reviews for the new Marvel movie?,web_search
+Are there any resources available to help with professional development and training?,knowledge_query
+Email the design team about the new logo and branding guidelines,email_send
+How do you like to spend a typical Sunday afternoon?,general_chat
+What's the weather forecast for London tomorrow?,web_search
+What's the best advice you've ever received?,general_chat
+What's your favorite way to spend a free Sunday afternoon?,general_chat
+Can you email the design team with the feedback on the new logo,email_send
+Have you traveled anywhere exciting recently?,general_chat
+I need to email the travel agency about the flight booking,email_send
+Please email the updated brochure to our new clients,email_send
+Email the customer about the status of their order.,email_send
+Look up the schedule for the upcoming music festival,web_search
+Can you arrange a meeting with the management team to discuss the company's future plans?,calendar_schedule
+Email the HR department about the employee benefits and policies,email_send
+Can you provide details about the company's charitable giving program?,knowledge_query
+We need to set up a meeting with the vendor to negotiate the contract terms.,calendar_schedule
+What is the procedure for requesting a leave of absence from work?,knowledge_query
+Email the sales team with the latest product information,email_send
+"How was your birthday, did you do anything special?",general_chat
+Book a meeting with the sales team for next Monday at 9am to discuss the quarterly targets.,calendar_schedule
+How does the tuition reimbursement program work?,knowledge_query
+What resources are available to support employee mental health and wellness?,knowledge_query
+What benefits are available to employees' families and dependents?,knowledge_query
+Please book a meeting with the management team to review the company's performance.,calendar_schedule
+How do I access my pay stubs and tax documents online?,knowledge_query
+I need to set up a one-on-one meeting with my manager for next Friday.,calendar_schedule
+How do I find information about company-wide events and announcements?,knowledge_query
+What's the best way to get to the airport from downtown?,web_search
+What's the average salary for a software engineer in the US?,web_search
+Are you looking forward to anything exciting in the near future?,general_chat
+What's the most interesting thing you've learned lately?,general_chat
+"I heard about the new movie that just came out, have you seen it?",general_chat
+Let's schedule a meeting with the executive team to discuss the company's strategic plan.,calendar_schedule
+Can you please book a conference room for our client presentation on Wednesday?,calendar_schedule
+Email the development team the bug fix updates for the software,email_send
+What's the price of a MacBook Air?,web_search
+How does the company handle conflicts of interest among employees?,knowledge_query
+Search for the best Italian restaurants in Chicago,web_search
+What is the company's stance on flexible work arrangements?,knowledge_query
+Can you find the instructions for assembling IKEA furniture?,web_search
+What's your favorite type of cuisine and where's the best place to get it?,general_chat
+How does our company handle conflicts of interest?,knowledge_query
+Please send an email to the finance department about the invoice,email_send
+What's the rating for the new Samsung TV?,web_search
+I want to book a video conference with the remote team for this evening at 7pm.,calendar_schedule
+Email the sales department with the latest product information and pricing,email_send
+What do you like to do to take your mind off things?,general_chat
+"How was your holiday, did you go anywhere exciting?",general_chat
+What are the symptoms of diabetes?,web_search
+I want to send an email to my colleague about the project deadline,email_send
+I'd like to book a meeting room for our quarterly review on the 15th of this month.,calendar_schedule
+Please email the accounting department about the invoice payment.,email_send
+What are the guidelines for data protection and confidentiality?,knowledge_query
+Can you find the business hours for the local bank?,web_search
+I need to know the definition of artificial intelligence,web_search
+Search for the best ways to learn Spanish online,web_search
+Can you schedule a call with the new candidate for the open position on Tuesday?,calendar_schedule
+Email the customer about the status of their order,email_send
+Please set up a meeting with the customer for Friday at 3pm to discuss the feedback.,calendar_schedule
+What's been the highlight of your month so far?,general_chat
+Can you look up the biography of Elon Musk?,web_search
+Can you schedule a lunch meeting with John for tomorrow at 12:30pm?,calendar_schedule
+Can you explain the company's stance on diversity and inclusion?,knowledge_query
+Please set up a meeting with the management team to discuss the company's future plans.,calendar_schedule
+Can you send an email to the supplier about the order cancellation,email_send
+I'd like to book a meeting with the research team to discuss the market trends,calendar_schedule
+What is the company's stance on professional development opportunities?,knowledge_query
+Can you add a meeting with the sales team to my calendar for next week?,calendar_schedule
+Schedule a meeting with the creative team to review the design concepts and provide feedback.,calendar_schedule
+Can you please email the presentation slides to the training team?,email_send
+"How was your summer, did you get to take a break?",general_chat
+Do you have any favorite hobbies or activities that you enjoy?,general_chat
+What is the procedure for reporting a workplace incident or injury?,knowledge_query
+How was your experience at the last concert or show you attended?,general_chat
+Search for reviews of the latest Samsung smartphone,web_search
+"Do you have any pets, if so what kind?",general_chat
+What's the average salary for a software engineer in San Francisco?,web_search
+"I feel like I haven't seen you in ages, what have you been up to?",general_chat
+Schedule a meeting with the sales team to review the quarterly sales performance.,calendar_schedule
+What's the history of the city of Rome?,web_search
+What's your favorite type of food to try when you're eating out?,general_chat
+What's the exchange rate of US dollars to euros?,web_search
+Can I get information about the company's charitable giving and volunteer programs?,knowledge_query
+I want to send a thank-you email to the client for their business,email_send
+What are the rules for taking a sick leave?,knowledge_query
+Can you provide information on the employee assistance program?,knowledge_query
+What's the latest news about climate change?,web_search
+Can you tell me more about the company's employee recognition and reward programs?,knowledge_query
+What are the top news headlines today?,web_search
+Email the finance team with the updated budget projections,email_send
+Find the best hotels in Las Vegas for under $100,web_search
+Find the reviews for the movie Top Gun Maverick,web_search
+"I've been meaning to ask, how was your birthday?",general_chat
+What benefits does the company offer to its employees?,knowledge_query
+Let's schedule a call with the marketing team for tomorrow at 2pm.,calendar_schedule
+Please send an email to the insurance company about the claim,email_send
+Book a meeting with the production team to discuss the manufacturing process,calendar_schedule
+What's the history of the company Google?,web_search
+Please send a welcome email to our new subscribers,email_send
+I'd like to book a meeting room for our team's weekly catch-up on Thursday.,calendar_schedule
+Have you read any good books or articles recently?,general_chat
+Email the operations team about the new procedure for handling customer requests,email_send
+Book a meeting room for the project kickoff event on Friday at 10am.,calendar_schedule
+Do you have any fun plans for the upcoming holiday?,general_chat
+Find the address of the nearest Starbucks coffee shop,web_search
+What's the definition of climate change and its effects?,web_search
+Please arrange a meeting with the sales team to review their quarterly performance.,calendar_schedule
+Can you tell me about the employee recognition program?,knowledge_query
+I'd like to book a lunch meeting with John to discuss the new project,calendar_schedule
+Are there any mental health resources or support available to employees?,knowledge_query
+I want to email the entire company about the holiday schedule,email_send
+What are the expectations for communication and collaboration between teams and departments?,knowledge_query
+"I'm so glad we finally caught up, how was your summer?",general_chat
+I need to email the IT department about the server issue,email_send
+Let's schedule a meeting to brainstorm ideas for the new campaign.,calendar_schedule
+Please send an email to our supplier about the delayed shipment,email_send
+Find the ratings for the new Samsung TV,web_search
+Please schedule a team meeting for tomorrow at 10am to discuss the upcoming deadline.,calendar_schedule
+Let's book a conference call with the remote team for Friday at 11am.,calendar_schedule
+How do I get to the airport from downtown Chicago?,web_search
+Email the logistics team about the delivery schedule for the week,email_send
+How does our company handle conflicts or disputes between employees?,knowledge_query
+Email the logistics team about the shipment and delivery schedule,email_send
+What are the requirements for taking a sabbatical or extended leave?,knowledge_query
+Please send a notification email to the users about the system maintenance,email_send
+Can you email the meeting minutes to the board of directors,email_send
+I need to book a meeting with the research team to discuss the recent findings.,calendar_schedule
+How was your experience at the concert last night?,general_chat
+What are the business hours for the local library?,web_search
+Can you send a reminder email to the attendees about the deadline,email_send
